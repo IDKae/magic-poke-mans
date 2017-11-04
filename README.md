@@ -22,9 +22,13 @@ This is public because private repositories are expensive for broke college stud
 We have no Storyline.
 
 ## Game Elements
-* Puzzles. Puzzles aplenty.
+* Puzzles. Puzzles a plenty!
 * Exploration
 * Easter Eggs!
 
+## Coding Languages
+* Java maybe?
+* Python?
+* C?????
 
 
